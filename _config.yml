@@ -11,12 +11,12 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: Aqua Dragon King
+description: A tale of my experience with the tiny dragons.
 owner:
-  name: _your name_ # or company name
+  name: AquaDragonKing # or company name
   url: "http://example.com" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
+first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,8 +28,8 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: Welcome to Aqua Dragon King 
+  text: Let's dive on in!
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
