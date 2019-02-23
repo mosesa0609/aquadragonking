@@ -31,8 +31,8 @@ greeting:
   title: Welcome to Aqua Dragon King 
   text: Let's dive on in!
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Have a question?
+closing-para: Send me a message.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
