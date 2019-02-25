@@ -103,14 +103,14 @@ other-image-credit: All other images are public domain.
 # 'lic' values correspond to the keys in the license hash above
 #
 image-credit:
-  - src : /images/caustic_light.jpg
-    by  : fdecomite
-    url : https://www.flickr.com/photos/fdecomite/1907376527/
-    lic : ccb2
-  - src : /images/flickr-froderik.jpg
-    by  : froderik
-    url : https://www.flickr.com/photos/froderik/9355090806/
-    lic : ccbsa2
+  - src : /images/blue_dream__by_pelzwanze.jpg
+    by  : Pelzwanze
+    url : https://www.flickr.com/photos/pelzwanze/31040558261/in/photostream/
+    lic : 
+  - src : /images/blue_dream_berried_by_pelzwanze.jpg
+    by  : Pelzwanze
+    url : https://www.flickr.com/photos/pelzwanze/31040558261/in/photostream/
+    lic : 
   - src : /images/blue_dream_by_pelzwanze.jpg
     by  : Pelzwanze
     url : https://www.flickr.com/photos/pelzwanze/31040558261/in/photostream/
