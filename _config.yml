@@ -15,7 +15,7 @@ title: Aqua Dragon King
 description: A tale of my experience with the tiny dragons.
 owner:
   name: AquaDragonKing # or company name
-  url: "https://www.aquadragonking.com" # your URL
+  url: "https://aquadragonking.github.io" # your URL
 first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "https://arkadianriver.github.io" # the base hostname & protocol for this site
